@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently a volunteer at Scottish Tech Army.<br>🌱 I’m learning Vanilla JS, refactoring with Typescript (intial introduction) and React. <br>💬 Ask me about anything you like.<br>⚡ Fun fact:  Ben Loves crab sticks
+🔭 I’m a volunteer at Scottish Tech Army.<br>🌱 I’m consistantly improving my skills in python, JS, React & Java <br>💬 Ask me about anything you like.<br>⚡ 
 
 
 ## 🌐 Socials:
